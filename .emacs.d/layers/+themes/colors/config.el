@@ -11,11 +11,11 @@
 
 ;; Variables
 
-(defvar colors-colorize-identifiers nil
+(defvar colors-colorize-identifiers 'variables
   "If `variables' colorize variables, if `all' colorize all identifiers in
 programming language buffers.")
 
-(defvar colors-enable-nyan-cat-progress-bar nil
+(defvar colors-enable-nyan-cat-progress-bar t
   "If non nil all nyan cat packages are enabled (for now only `nyan-mode').")
 
 (defvar colors-theme-identifiers-sat&light
