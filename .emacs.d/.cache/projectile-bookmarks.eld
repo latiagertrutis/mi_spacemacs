@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/lem-in/" "~/lem-in/libft/" "~/BonoRol/")
